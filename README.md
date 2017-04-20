@@ -10,4 +10,4 @@
 ![](https://github.com/BK120/LostAndFoundServers/blob/master/shotscreen/shot3.png)&emsp;
 <h5>问题4：</h5>JDBC中修改用户名和密码    
 
-![](https://github.com/BK120/LostAndFoundServers/blob/master/shotscreen/shot5.png)&emsp;![](https://github.com/BK120/LostAndFoundServers/blob/master/shotscreen/shot6.png)&emsp; 
+![](https://github.com/BK120/LostAndFoundServers/blob/master/shotscreen/shot4.png)&emsp;![](https://github.com/BK120/LostAndFoundServers/blob/master/shotscreen/shot5.png)&emsp; 
